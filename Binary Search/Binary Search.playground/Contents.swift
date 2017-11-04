@@ -33,4 +33,4 @@ func binarySearch(array: [Int], numberSearchValue: Int) -> Bool {
     return false
 }
 
-print(binarySearch(array: numbers, numberSearchValue: 20))
+print(binarySearch(array: numbers, numberSearchValue: 10))

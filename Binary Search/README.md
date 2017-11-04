@@ -1,0 +1,2 @@
+# Binary Search Algorithm
+In an ordered array, this algorithm takes log(n) to find a value. This means that it will find the middle value in an ordered array and compare that with the "search value". If the "search value" is less than the middle value, then we know that the number is to the left. This continues until it finds a match or not.
