@@ -7,3 +7,6 @@ The basis of bubble sort starts from the beginning and compares two nodes and ch
 Runtime:    
 * Average: O(N^2)    
 * Worst: O(N^2)    
+
+Useful Info:     
+https://www.tutorialspoint.com/data_structures_algorithms/bubble_sort_algorithm.htm
